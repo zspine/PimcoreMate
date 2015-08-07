@@ -1,1 +1,1 @@
-# pimcore-mate
+# Pimcore Mate
